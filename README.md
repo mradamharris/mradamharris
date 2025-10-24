@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, my name is Adam Harris!<br/><a href="https://github.com/joshmadakor1">Senior Data Consultant</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Visualization/UI Expert</a></h1>
+
+<h2>👨‍💻 Data Projects:</h2>
+
+- <b>Turned missing millions into measurable results through SQL reconciliation</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
 **mradamharris/mradamharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
