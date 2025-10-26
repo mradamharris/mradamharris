@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Turned missing millions into measurable results through SQL reconciliation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <a href="https://github.com/mradamharris/RCM-Data-Reconciliation-SQL-Project">SQL Reconciliation Project</a>
 
 <!--
 **mradamharris/mradamharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
